@@ -3,7 +3,7 @@ title: NCWLS
 email: ncharran@ymail.com
 description: "Official Website of Neil Charran Warehousing and Logistics Service"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ncwls.com" # the base hostname & protocol for your site
+url: "https://josiahmaharaj.github.io/nswls/" # the base hostname & protocol for your site
 mission: "To be Effective, Efficient, Traceable and Accountable to our Clients." 
 
 # Build settings
