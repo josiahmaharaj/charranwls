@@ -124,7 +124,7 @@ header .navcontainer .nav li { display: inline; padding-left: 50px; padding-righ
 
 header .navcontainer .nav li a { display: inline-block; padding: 10px; font-size: 24px; text-transform: uppercase; }
 
-@media screen and (max-width: 850px) { header { background: url("/assets/img/bkg.jpg") no-repeat; }
+@media screen and (max-width: 850px) { header { background: url("../assets/img/bkg.jpg") no-repeat; }
   header .logo { height: 400px; width: 400px; margin: 0px auto; position: relative; padding-bottom: 200px; }
   header .logo img { height: 200px; width: 200px; position: absolute; top: 200px; left: 100px; }
   header .navcontainer { position: static; }
