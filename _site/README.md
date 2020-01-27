@@ -1,7 +1,7 @@
-C.M.S.L.S
+CharranWLS
 ===================
 
-Official website of C.M.S.L.S
+Official website of CharranWLS
 Niel Charran
 
 
